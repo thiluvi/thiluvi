@@ -10,7 +10,7 @@ Olá, eu sou o Thiago Pinkoway Luvizutto 👋
 🛠️
  Tecnologias e Ferramentas
 <p align="left">
-  <a href="https://www.instagram.com/azvwdo/">
+  <a href="https://github.com/thiluvi">
     <img src="https://skillicons.dev/icons?i=java,spring,nodejs,js,html,css,mysql" />
   </a>
 </p>
