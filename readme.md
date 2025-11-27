@@ -14,7 +14,6 @@
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java" />
-      <br>Java
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" />
