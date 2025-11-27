@@ -36,6 +36,10 @@
       <img src="https://skillicons.dev/icons?i=angular" width="40" height="40" alt="Angular" />
       <br>Angular
     </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=angular" width="40" height="40" alt="Angular" />
+      <br>Angular
+    </td>
   </tr>
 </table>
 
