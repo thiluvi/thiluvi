@@ -13,31 +13,31 @@
 <table>
   <div>
     <a align="center">
-      <img src="https://skillicons.dev/icons?i=java" width="60" height="60" alt="Java" />
+      <img src="https://skillicons.dev/icons?i=java" width="50" height="50" alt="Java" />
     </a>
     <a align="center">
-      <img src="https://skillicons.dev/icons?i=js" width="60" height="60" alt="JavaScript" />
+      <img src="https://skillicons.dev/icons?i=js" width="50" height="50" alt="JavaScript" />
     </a>
     <a align="center">
-      <img src="https://skillicons.dev/icons?i=ts" width="60" height="60" alt="TS" />
+      <img src="https://skillicons.dev/icons?i=ts" width="50" height="50" alt="TS" />
     </a>
     <a align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="60" height="60" alt="Node.js" />
+      <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node.js" />
     </a>
     <a align="center">
-      <img src="https://skillicons.dev/icons?i=mysql" width="60" height="60" alt="MySQL" />
+      <img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" alt="MySQL" />
     </a>
     <a align="center">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="60" height="60" alt="MongoDB" />
+      <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" alt="MongoDB" />
     </a>
     <a align="center">
-      <img src="https://skillicons.dev/icons?i=angular" width="60" height="60" alt="Angular" />
+      <img src="https://skillicons.dev/icons?i=angular" width="50" height="50" alt="Angular" />
     </a>
     <a align="center">
-      <img src="https://skillicons.dev/icons?i=html" width="60" height="60" alt="HTML" />
+      <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML" />
     </a>
     <a align="center">
-      <img src="https://skillicons.dev/icons?i=css" width="60" height="60" alt="CSS" />
+      <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS" />
     </a>
   </div>
 </table>
