@@ -1,4 +1,4 @@
-## 👋 Olá! Eu sou o Thiago Pinkoway Luvizutto!
+## 👋 Olá! Eu sou o Thiago!
 *💻 Estudante de Análise e Desenvolvimento de Sistemas focado em desenvolver soluções eficientes e escaláveis.*
 <p align="left">
   <a href="https://www.linkedin.com/in/thiagoluvizutto/" target="_blank">
