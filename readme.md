@@ -39,6 +39,9 @@
     <a align="center">
       <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS" />
     </a>
+    <a align="center">
+      <img src="https://skillicons.dev/icons?i=figma" width="50" height="50" alt="Figma" />
+    </a>
   </div>
 </table>
 
