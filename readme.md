@@ -8,7 +8,7 @@
 
 ---
 
-## ⚙️🛠️ Minhas Habilidades e Tecnologias
+## ⚙️🧠 Minhas Habilidades e Tecnologias
 
 <table>
   <div>
