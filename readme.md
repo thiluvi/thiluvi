@@ -16,22 +16,22 @@
       <img src="https://skillicons.dev/icons?i=java" width="60" height="60" alt="Java" />
     </a>
     <a align="center">
-      <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" />
+      <img src="https://skillicons.dev/icons?i=js" width="60" height="60" alt="JavaScript" />
     </a>
     <a align="center">
-      <img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TS" />
+      <img src="https://skillicons.dev/icons?i=ts" width="60" height="60" alt="TS" />
     </a>
     <a align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" />
+      <img src="https://skillicons.dev/icons?i=nodejs" width="60" height="60" alt="Node.js" />
     </a>
     <a align="center">
-      <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL" />
+      <img src="https://skillicons.dev/icons?i=mysql" width="60" height="60" alt="MySQL" />
     </a>
     <a align="center">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" />
+      <img src="https://skillicons.dev/icons?i=mongodb" width="60" height="60" alt="MongoDB" />
     </a>
     <a align="center">
-      <img src="https://skillicons.dev/icons?i=angular" width="40" height="40" alt="Angular" />
+      <img src="https://skillicons.dev/icons?i=angular" width="60" height="60" alt="Angular" />
     </a>
   </div>
 </table>
