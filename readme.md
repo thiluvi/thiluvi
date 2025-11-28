@@ -13,7 +13,7 @@
 <table>
   <div>
     <a align="center">
-      <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java" />
+      <img src="https://skillicons.dev/icons?i=java" width="60" height="60" alt="Java" />
     </a>
     <a align="center">
       <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" />
