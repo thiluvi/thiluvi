@@ -14,12 +14,13 @@
   <tr>
     <a align="center">
       <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java" />
+      <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" />
     </a>
     <a align="center">
       <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" />
     </a>
     <a align="center">
-      <img src="https://skillicons.dev/icons?i=TS" width="40" height="40" alt="TS" />
+      <img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TS" />
     </a>
     <a align="center">
       <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" />
@@ -29,9 +30,6 @@
     </a>
     <a align="center">
       <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" />
-    </a>
-    <a align="center">
-      <img src="https://skillicons.dev/icons?i=angular" width="40" height="40" alt="Angular" />
     </a>
     <a align="center">
       <img src="https://skillicons.dev/icons?i=angular" width="40" height="40" alt="Angular" />
