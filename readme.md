@@ -33,6 +33,12 @@
     <a align="center">
       <img src="https://skillicons.dev/icons?i=angular" width="60" height="60" alt="Angular" />
     </a>
+    <a align="center">
+      <img src="https://skillicons.dev/icons?i=html" width="60" height="60" alt="HTML" />
+    </a>
+    <a align="center">
+      <img src="https://skillicons.dev/icons?i=css" width="60" height="60" alt="CSS" />
+    </a>
   </div>
 </table>
 
