@@ -11,10 +11,9 @@
 ## 🚀 Minhas Habilidades e Tecnologias
 
 <table>
-  <tr>
+  <div>
     <a align="center">
       <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java" />
-      <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" />
     </a>
     <a align="center">
       <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" />
@@ -34,7 +33,7 @@
     <a align="center">
       <img src="https://skillicons.dev/icons?i=angular" width="40" height="40" alt="Angular" />
     </a>
-  </tr>
+  </div>
 </table>
 
 ---
