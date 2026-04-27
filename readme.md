@@ -1,7 +1,7 @@
 ## 👋 Olá! Eu sou o Thiago!
 *💻 Estudante de Análise e Desenvolvimento de Sistemas no Senac SP, focado em criar soluções eficientes e escaláveis.*
 
-Sou apaixonado por tecnologia e estou sempre em busca de otimização e performance. Atualmente, estou focado no desenvolvimento do **TagN**, uma aplicação de e-commerce, explorando o ecossistema web e mobile. Além disso, possuo **duas certificações oficiais em SQL pela Oracle**.
+Sou apaixonado por tecnologia e estou sempre em busca de otimização e performance. Atualmente, estou focado no desenvolvimento do **TagN**, uma aplicação de e-commerce, explorando o ecossistema web e mobile.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/thiagoluvizutto/" target="_blank">
