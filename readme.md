@@ -1,5 +1,5 @@
 ## 👋 Olá! Eu sou o Thiago!
-*💻 Estudante de Análise e Desenvolvimento de Sistemas no Senac SP, focado em criar soluções eficientes e escaláveis.*
+*💻 Estudante de Análise e Desenvolvimento de Sistemas, focado em criar soluções eficientes e escaláveis.*
 
 Sou apaixonado por tecnologia e estou sempre em busca de otimização e performance. Atualmente, estou focado no desenvolvimento do **TagN**, uma aplicação de e-commerce, explorando o ecossistema web e mobile.
 
